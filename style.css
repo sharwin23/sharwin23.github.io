@@ -70,6 +70,6 @@ a:active
     text-decoration: none;
 }
 body {
-background-color: #008080;
+background-color: "blue";
 margin: 20px;  
 }
