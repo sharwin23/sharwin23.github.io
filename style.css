@@ -1,1 +1,30 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    color: darkblue;
+}
+
+h1 {
+    text-align: center;
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 24px;
+    color: navy;
+}
+
+p {
+    font-size: 18px;
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+}
 
